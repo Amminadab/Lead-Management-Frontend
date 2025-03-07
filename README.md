@@ -34,7 +34,7 @@ A modern, responsive frontend for the Lead Manager application built with Next.j
 1. Clone the repository (if you haven't already):
 
 ```bash
-git clone https://github.com/yourusername/lead-manager.git
+git clone https://github.com/Amminadab/Lead-Management-Frontend.git
 cd lead-manager/frontend
 ```
 
